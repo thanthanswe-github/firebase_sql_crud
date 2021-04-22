@@ -1,2 +1,2 @@
 # firebase_sql_crud
-SQL query exercise using firebase database
+CRUD_IN_FIREBASE_SQL exercise using firebase database
